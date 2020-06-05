@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-FirebaseAdminMac-FirebaseAdminMacUITests/Pods-FirebaseAdminMac-FirebaseAdminMacUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AppAuth-iOS/AppAuth.framework
+${BUILT_PRODUCTS_DIR}/GTMAppAuth-iOS/GTMAppAuth.framework
+${BUILT_PRODUCTS_DIR}/GTMSessionFetcher-iOS/GTMSessionFetcher.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities-iOS/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/nanopb-iOS/nanopb.framework

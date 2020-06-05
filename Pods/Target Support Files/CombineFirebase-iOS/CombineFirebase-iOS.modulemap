@@ -1,0 +1,6 @@
+framework module CombineFirebase {
+  umbrella header "CombineFirebase-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_FirebaseAdminMac_FirebaseAdminMacUITests {
+  umbrella header "Pods-FirebaseAdminMac-FirebaseAdminMacUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
