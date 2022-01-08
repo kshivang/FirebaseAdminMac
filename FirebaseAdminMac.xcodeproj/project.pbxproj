@@ -1081,7 +1081,7 @@
 				CODE_SIGN_ENTITLEMENTS = FirebaseAdminMac/FirebaseAdminMac.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"FirebaseAdminMac/Preview Content\"";
-				DEVELOPMENT_TEAM = 6HAH99K457;
+				DEVELOPMENT_TEAM = TSFZV2FBXD;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = FirebaseAdminMac/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -1105,7 +1105,7 @@
 				CODE_SIGN_ENTITLEMENTS = FirebaseAdminMac/FirebaseAdminMac.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"FirebaseAdminMac/Preview Content\"";
-				DEVELOPMENT_TEAM = 6HAH99K457;
+				DEVELOPMENT_TEAM = TSFZV2FBXD;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = FirebaseAdminMac/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -1218,7 +1218,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"FirebaseAdmin/Preview Content\"";
-				DEVELOPMENT_TEAM = 6HAH99K457;
+				DEVELOPMENT_TEAM = TSFZV2FBXD;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = FirebaseAdmin/Info.plist;
@@ -1243,7 +1243,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"FirebaseAdmin/Preview Content\"";
-				DEVELOPMENT_TEAM = 6HAH99K457;
+				DEVELOPMENT_TEAM = TSFZV2FBXD;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = FirebaseAdmin/Info.plist;
